@@ -1,0 +1,27 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# R history and workspace
+.Rhistory
+.RData
+.Ruserdata
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
